@@ -1,6 +1,6 @@
 # Dior Project
 
-This is a Java Spring Boot project using Kotlin language. The project aims to provide a platform for managing and selling products online.
+This is a Java Spring Boot project using Kotlin language. The project aims to  provide an autocomplete service for code data.
 
 ## Getting Started
 
